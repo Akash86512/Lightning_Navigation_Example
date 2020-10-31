@@ -2,6 +2,8 @@
 
 This guide helps Salesforce developers who are new to Visual Studio Code go from zero to a deployed app using Salesforce Extensions for VS Code and Salesforce CLI.
 
+
+![Logistics](https://user-images.githubusercontent.com/46747484/97782622-930d8000-1bb8-11eb-8342-ec3725c677b6.jpg)
 ## Part 1: Choosing a Development Model
 
 There are two types of developer processes or models supported in Salesforce Extensions for VS Code and Salesforce CLI. These models are explained below. Each model offers pros and cons and is fully supported.
